@@ -1,4 +1,34 @@
 {
-  "list": {},
-  "update": 0
+  "list": {
+    "fourletterdisplay": {
+      "author": "Cleep",
+      "category": "DRIVER",
+      "changelog": "## [1.0.0] - 01-19-2021\n\n* First release",
+      "confidence": 9.3,
+      "country": null,
+      "deps": [],
+      "description": "Four-letter pHAT display",
+      "icon": "clock-digital",
+      "label": "Fourletterdisplay",
+      "longdescription": "This application installs all needed to use Four-letter pHAT from Piromoni.<br>It allows to display informations from your device (like weather temperature, CPU usage and more) through four letters.<br>Long text (more than 4 letters) will scroll automatically and displayed dots can be configured individually.<br>Brightness is also configurable with a night mode with a night mode",
+      "price": null,
+      "quality": 9.41,
+      "tags": [
+        "display",
+        "pimoroni",
+        "digits",
+        "segments"
+      ],
+      "urls": {
+        "bugs": "https://github.com/tangb/cleepmod-teleinfo/issues",
+        "help": "https://github.com/tangb/cleepmod-teleinfo/wiki",
+        "info": "https://github.com/tangb/cleepmod-fourletterhat",
+        "site": "https://shop.pimoroni.com/products/four-letter-phat"
+      },
+      "version": "1.0.0",
+      "sha256": "d329edac164185e6b2a5c6d23f13dc7569c631eb8b6aa47fe0d2547b81ac5a1e",
+      "download": "https://raw.githubusercontent.com/tangb/ci-test/main/apps/fourletterdisplay/cleepmod_fourletterdisplay_v1.0.0.zip"
+    }
+  },
+  "update": 1613323736
 }
